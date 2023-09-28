@@ -25,3 +25,5 @@
 
 ## Python Projects
 1. Control Flow ATM
+2. Employee Data
+3. 
