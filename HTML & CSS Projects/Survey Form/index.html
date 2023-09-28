@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang='en'>
+  <head>
+    <link rel="stylesheet" href="styles.css">
+    <meta name='viewport' content='width=device-width, initial-scale=1.0'/>
+  <title>Survey Form</title>
+  </head>
+  <body>
+    <h1 id='title'>freeCodeCamp Employment Form</h1>
+    <p id='description'>Thank you for taking the time to apply for a position at FreeCodeCamp</p>
+    <form id='survey-form' method='post'>
+      <fieldset></fieldset>
+      <fieldset>
+        <label id='name-label'>Please insert your name: <input id='name' type='text' placeholder='John Doe' value='' required> </label>
+        <label id='email-label'>Please insert your email: <input id='email' type='email' placeholder='JD123@email.com' value='' required> </label>
+        <label id='number-label'>Please insert your age: <input id='number' type='number' min='16' max='120' placeholder="26" value='number'> </label>
+      </fieldset>
+      <fieldset>
+        <label for='from-uk'>Are you from the UK?
+        <select id='dropdown'>
+          <option>(select one)</option>
+          <option>yes</option>
+          <option>no</option>
+        </select>
+        </label>
+        <label>Are you a previous employee?</label>
+        <label for='previous_emp'>
+          <input type='radio' id='previous_emp' value='yes' name='employee' class='inline'/> Yes</label>
+        <label for='not-previous-emp'>
+          <input type='radio' id='not-previous-emp' value='no' name='employee' class='inline'/> No </label>
+          </fieldset>
+          <fieldset>
+            <label>Animal Lover?</label>
+            <label for='animal-dog'>
+              <input type='checkbox' value='1' class='inline' name='animal'> I love Dogs! </label>
+            <label for='animal-cat'>
+              <input type='checkbox' value='2' class='inline' name='animal'> I love cats! </label>
+      </fieldset>
+      <fieldset>
+        <label>Provide a bio: 
+          <textarea id="bio" name='bio' rows='4' cols='30' placeholder='I am a commited individual...'></textarea>
+          </label>
+      </fieldset>
+      <button id='submit' type='submit' value='submit'>Submit</button>
+    </form>
+  </body>
+</html>
