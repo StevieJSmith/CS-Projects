@@ -1,0 +1,37 @@
+body {
+  text-align: center;
+  background-color: rgb(200,200, 200);
+}
+#editorDiv {
+  margin: 0 auto;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+fieldset {
+  text-align: left;
+  margin: 0 auto;
+  font-family: Oswald, sans-serif;
+  background-color: rgb(0, 240, 120);
+  font-size: 20px;
+}
+#editorField {
+  width: 574px;
+}
+textarea {
+  height: 150px;
+  width: 600px;
+}
+#previewDiv {
+  margin-bottom: 80px;
+}
+#previewField {
+  width: 870px;
+}
+#preview {
+  margin: 0 auto;
+  height: auto;
+  width: 900px;
+  border: 1px solid black;
+  text-align: left;
+  background-color: white;
+}
