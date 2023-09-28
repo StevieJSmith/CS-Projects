@@ -1,0 +1,32 @@
+body {
+  transition: background-color 1s linear;
+  height: 100vh;
+  text-align: center;
+}
+#quote-box {
+  border: 3px solid white;
+  overflow: hidden;
+  width: 50%;
+  background-color: white;
+  border-radius: 25px;
+  transition: color 1s linear;
+  transform: translate(50%, 50%);
+}
+#textDiv {
+  font-family: sans-serif;
+  font-size: 14px;
+}
+#new-quote {
+  color: white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  padding: 8px;
+  border: 1px solid white;
+  cursor: pointer;
+  border-radius: 25px;
+  transition: background-color 1s linear;
+}
+#tweet-quote {
+  margin-bottom: 20px;
+  transition: color 1s linear;
+}
