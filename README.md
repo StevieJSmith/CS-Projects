@@ -1,4 +1,4 @@
-# Portfolio Projects
+# Graduate Projects
 
 ## HTML & CSS Projects
 1. Survey Form
