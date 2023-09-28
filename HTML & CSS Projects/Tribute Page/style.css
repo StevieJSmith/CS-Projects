@@ -1,0 +1,54 @@
+img {
+    display: block;
+  }
+  
+  #image {
+    max-width: 100%;
+    margin: 0 auto;
+    background-color: black;
+    padding: 30px 30px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  
+  h2 {
+    font-size: 18px;
+  }
+  
+  main {
+    background: rgb(255,255,255);
+  background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(167,176,186,1) 100%);
+  
+  }
+  
+  footer {
+    padding: 30px;
+    border-top: 5px solid black;
+    font-size: 12px;
+  }
+  
+  html {
+    font-size: 16px;
+    font-family: sans-serif;
+  }
+  
+  header, h2, p, figcaption {
+    text-align: center;
+    margin: -4px 0;
+    letter-spacing: 0.15px
+  }
+  
+  figcaption, header {
+    padding-top: 10px;
+    padding-bottom: 30px;
+    border-bottom: 5px solid black;
+  }
+  
+  figcaption {
+    font-size: 14px;
+  }
+  
+  .bold {
+    font-weight: 800;
+  }
