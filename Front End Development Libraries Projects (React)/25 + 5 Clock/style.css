@@ -1,0 +1,68 @@
+body{
+  background-color: rgb(240,120,0);
+  text-align: center;
+  font-family: Oswald;
+}
+.title{
+  font-size: 60px;
+  padding: 20px;
+  font-weight: bold;
+}
+.row{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 40px;
+  font-size: 25px;
+}
+#break-label{
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+#session-label{
+  padding-bottom: 30px;
+  font-size: 30px;
+}
+
+#adjustment{
+}
+#break-length{
+  font-size: 40px;
+}
+#session-length{
+  font-size: 40px;
+}
+
+
+.break{
+  
+}
+.session{
+}
+.timer{
+  padding: 30px;
+  font-size: 30px;
+  border: 10px solid black;
+  font-family: Orbitron;
+  width: 600px;
+  margin: 0 auto;
+  
+}
+#timer-label{
+  padding-bottom:10px;  
+}
+#time-left{
+  padding-bottom: 10px;
+  font-size: 60px;
+}
+
+#options{
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 20px;
+  font-size: 25px;
+}
+
+#break-increment, #break-decrement, #session-increment, #session-decrement,
+#reset, #start_stop{
+  cursor: pointer;
+}
