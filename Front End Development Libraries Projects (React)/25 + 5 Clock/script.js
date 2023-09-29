@@ -1,11 +1,11 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
-let countDown;
+let countDown; // initialised for clock number countdown in the count function
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
+    this.state = { // keep track of the following for clock changes and display
       type: "Session",
       break: 5,
       session: 25,
@@ -17,7 +17,7 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick(event) {
+  handleClick(event) { // if the event's id is one of the following update the state appropriately 
     switch (event.target.id) {
       case "break-increment":
         if (this.state.break < 60) {
@@ -53,8 +53,8 @@ class App extends React.Component {
           });
         }
         break;
-      case "reset":
-        clearInterval(countDown);
+      case "reset": // reset state back to its original values 
+        clearInterval(countDown); // stop the count function
         this.setState((state) => {
           return {
             type: "Session",
@@ -66,8 +66,8 @@ class App extends React.Component {
             paused: false
           };
         });
-        document.getElementById("beep").currentTime = 0;
-        document.getElementById("beep").pause();
+        document.getElementById("beep").currentTime = 0; // rewind the audio 
+        document.getElementById("beep").pause(); 
         break;
       default:
         return this.state;
@@ -76,14 +76,14 @@ class App extends React.Component {
   }
 
   timer = () => {
-    if (this.state.running === false) {
+    if (this.state.running === false) { // update running to true if it is 'false' as clock countdown should begin
       this.setState({
         running: true
       });
       let secs =
         this.state.timerMinutes * 60 + parseInt(this.state.timerSeconds);
       const now = Date.now();
-      const then = now + secs * 1000;
+      const then = now + secs * 1000; 
 
       countDown = setInterval(() => {
         const secsLeft = Math.round((then - Date.now()) / 1000);
@@ -93,7 +93,7 @@ class App extends React.Component {
         ) {
           document.getElementById("beep").play();
         }
-        if (secsLeft < 0) {
+        if (secsLeft < 0) { // end of counting 
           clearInterval(countDown);
           this.break();
           return;
@@ -133,7 +133,7 @@ class App extends React.Component {
     }
   };
 
-  break = () => {
+  break = () => { 
     if (this.state.paused === false) {
       if (this.state.break > 9) {
         this.setState({
@@ -144,7 +144,7 @@ class App extends React.Component {
           paused: true
         });
         this.timer();
-      } else {
+      } else { // break <= 9
         this.setState({
           type: "Break",
           timerMinutes: "0" + this.state.break,
@@ -154,7 +154,7 @@ class App extends React.Component {
         });
         this.timer();
       }
-    } else {
+    } else { // paused == true (switch from true to false and false to true continuously after the sessions have run there course
       if (this.state.session > 9) {
         this.setState({
           type: "Session",
@@ -185,7 +185,7 @@ class App extends React.Component {
           <div className="break">
             <div id="break-label">Break Length</div>
             <div id="adjustment">
-              <div
+              <div // if a up arrow is clicked increase the number, if a down arrow is decrease the number (using handleClick)
                 className="fa fa-arrow-up fa-2x custom-cursor-on-hover"
                 id="break-increment"
                 onClick={this.handleClick}
@@ -211,7 +211,7 @@ class App extends React.Component {
             <div id="options">
               <div
                 className="fa fa-play"
-                id="start_stop"
+                id="start_stop" // when the play or pause button image is clicked run the 'timer' function
                 onClick={() => this.timer()}
               ></div>
               <div
@@ -220,7 +220,7 @@ class App extends React.Component {
                 onClick={() => this.timer()}
               ></div>
               <div
-                className="fa fa-refresh"
+                className="fa fa-refresh" // reset the state using handleClick
                 id="reset"
                 onClick={this.handleClick}
               ></div>
