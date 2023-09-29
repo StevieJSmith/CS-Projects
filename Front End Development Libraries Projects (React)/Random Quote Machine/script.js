@@ -1,7 +1,7 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
-const quotes = [
+const quotes = [ // array of objects containing quote information
   {
     quote: "Be yourself; everyone else is already taken.",
     author: "Oscar Wilde"
