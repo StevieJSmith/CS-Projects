@@ -1,5 +1,5 @@
 # Graduate Projects
-[a relative link](other_file.md)
+[a relative link](HTML & CSS Projects)
 
 ## HTML & CSS Projects
 1. Survey Form
