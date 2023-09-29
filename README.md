@@ -1,12 +1,11 @@
 # Graduate Projects
 
-## HTML & CSS Projects &rarr; [Click Here](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-[HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-1. Survey Form -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-2. Tribute Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-3. Techincal Documentation Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-4. Product Landing Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-5. Personal Portfolio -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+## HTML & CSS Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+1. Survey Form &rarr; [View Project]([https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form))
+2. Tribute Page &rarr; [View Project]([https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Tribute%20Page))
+3. Techincal Documentation Page &rarr; [View Project]([https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Technical%20Documentation%20Page))
+4. Product Landing Page &rarr; [View Project([https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Product%20Landing%20Page))
+5. Personal Portfolio &rarr; [View Project]([https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Personal%20Portfolio%20Webpage))
 
 ## Javascript Algorithm Scripting Projects
 1. Palindrome Checker
