@@ -101,7 +101,7 @@ class App extends React.Component {
               total: this.state.total.slice(equal + 1) + event.target.innerText
             };
           });
-        } else if (
+        } else if ( // ensure three operators can not be inputted into the calculator
           this.state.total.slice(-2) !== "--" &&
           this.state.total.slice(-2) !== "+-" &&
           this.state.total.slice(-2) !== "/-" &&
@@ -160,7 +160,7 @@ class App extends React.Component {
           });
         }
         break;
-      case ".":
+      case ".": // ensures a 0 is placed before each decimal if it does not follow a number
         if (hasEqualsRegex.test(this.state.total)) {
           let equal = this.state.total.indexOf("=");
           this.setState((state) => {
@@ -195,7 +195,7 @@ class App extends React.Component {
           });
         }
         break;
-      case "=":
+      case "=": // use eval to calculate the total string and display it correctly
         this.setState((state) => {
           return {
             input: eval(this.state.total),
@@ -205,15 +205,15 @@ class App extends React.Component {
           };
         });
         break;
-      default:
-        if (hasEqualsRegex.test(this.state.total)) {
+      default: // if a operator is not inputted 
+        if (hasEqualsRegex.test(this.state.total)) { // if a number is clicked after an equals is within the total string, assume it is a new equation   
           this.setState((state) => {
             return {
               input: event.target.innerText,
               total: event.target.innerText
             };
           });
-        } else if (
+        } else if ( // append if a number is the previous element
           this.state.total !== "" &&
           zeroToNineRegex.test(this.state.total.slice(-1))
         ) {
@@ -224,7 +224,7 @@ class App extends React.Component {
             };
           });
         } else if (
-          this.state.total !== "" &&
+          this.state.total !== "" && // append to total if the previous element is an operator, but replace the input only to show the number
           zeroToNineRegex.test(this.state.total.slice(-1)) == false
         ) {
           this.setState((state) => {
@@ -233,7 +233,7 @@ class App extends React.Component {
               total: this.state.total.concat(event.target.innerText)
             };
           });
-        } else if (event.target.innerText !== "0") {
+        } else if (event.target.innerText !== "0") { // if the total string is empty, allow for all numbers except 0 to be entered!
           this.setState((state) => {
             return {
               input: event.target.innerText,
@@ -246,8 +246,8 @@ class App extends React.Component {
   render() {
     return (
       <body>
-        <div id="calculator">
-          <Screen total={this.state.total} input={this.state.input} />
+        <div id="calculator"> // display the 'Screen' and 'Pad' class, whilst passing handleClick as a variable to 'Pad'
+          <Screen total={this.state.total} input={this.state.input} /> 
           <Pad handleClick={this.handleClick} />
         </div>
       </body>
@@ -261,8 +261,8 @@ class Screen extends React.Component {
   }
   render() {
     return (
-      <div id="screen">
-        <div id="total">{this.props.total}</div>
+      <div id="screen"> // uses the App's total and input states to display the total and input
+        <div id="total">{this.props.total}</div> 
         <div id="display">{this.props.input}</div>
       </div>
     );
@@ -278,7 +278,7 @@ class Pad extends React.Component {
       <div id="pad">
         <div
           id="clear"
-          className="button-ac button"
+          className="button-ac button" //If a button is clicked, trigger handleClick and perform the appropriate action
           onClick={this.props.handleClick}
         >
           AC
