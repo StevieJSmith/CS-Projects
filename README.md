@@ -1,6 +1,6 @@
 # Graduate Projects
 
-## HTML & CSS Projects -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+## HTML & CSS Projects &rarr; [Click Here](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 1. Survey Form -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 2. Tribute Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
