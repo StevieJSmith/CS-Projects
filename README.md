@@ -14,7 +14,7 @@
 4. Telephone Number Validator (US) &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Telephone%20Number%20Validator.js)
 5. Cash Register &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Cash%20Register.js)
 
-## Front End Development Libraries Projects (React) &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)
+## Front End Development Libraries Projects (React) &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
 1. Random Quote Machine &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Random%20Quote%20Machine)
 2. Markdown Previewer &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Markdown%20Previewer)
 3. Drum Machine &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Drum%20Machine)
