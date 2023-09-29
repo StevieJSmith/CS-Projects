@@ -101,7 +101,7 @@ class App extends React.Component {
               total: this.state.total.slice(equal + 1) + event.target.innerText
             };
           });
-        } else if ( // ensure three operators can not be inputted into the calculator
+        } else if ( // ensure only two '-' can be inputted into the calculator one after the other
           this.state.total.slice(-2) !== "--" &&
           this.state.total.slice(-2) !== "+-" &&
           this.state.total.slice(-2) !== "/-" &&
