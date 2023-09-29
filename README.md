@@ -1,4 +1,6 @@
-<p style="text-align: center;"># Graduate Projects :eyes:</p>
+<p align="center">
+  # Graduate Projects :eyes:
+</p>
 
 ![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Computer%20Screens.jpg)
 
