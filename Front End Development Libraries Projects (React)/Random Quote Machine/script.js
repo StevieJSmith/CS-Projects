@@ -46,7 +46,7 @@ const quotes = [ // array of objects containing quote information
   }
 ];
 
-const colours = [
+const colours = [ // array of colours for changing colour when a new quote is generated
   "blue",
   "red",
   "green",
@@ -62,7 +62,7 @@ const colours = [
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
+    this.state = { // state containing a quote, author and color, which changes on click events
       quote: quotes[0].quote,
       author: quotes[0].author,
       colour: colours[0]
@@ -70,9 +70,9 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick(event) {
+  handleClick(event) { // randomly generates a number between 0-9 to decide on quote, author and colour 
     event.preventDefault();
-    this.setState((state) => {
+    this.setState((state) => { // saves the new state
       const index = Math.floor(Math.random() * 9);
       return {
         quote: quotes[index].quote,
@@ -85,11 +85,11 @@ class App extends React.Component {
   render() {
     return (
       <body
-        style={{
+        style={{ // background colour corresponds to the generated colour
           backgroundColor: this.state.colour
         }}
       >
-        <QuoteBox
+        <QuoteBox // displays the QuoteBox class, passes the following variables with each value 
           colour={this.state.colour}
           quote={this.state.quote}
           author={this.state.author}
@@ -104,7 +104,7 @@ class QuoteBox extends React.Component {
   constructor(props) {
     super(props);
   }
-  render() {
+  render() { // retrieves the parent values to assign to different values through props
     return (
       <div
         id="quote-box"
@@ -141,4 +141,4 @@ class QuoteBox extends React.Component {
   }
 }
 
-ReactDOM.render(<App />, document.getElementById("react"));
+ReactDOM.render(<App />, document.getElementById("react")); // render the content from App inside the HTML element with an id of 'react'
