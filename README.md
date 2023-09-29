@@ -1,6 +1,6 @@
 # Graduate Projects :eyes:
 
-https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Computer%20Screens.jpg
+![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Computer%20Screens.jpg)
 
 ## HTML & CSS Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 1. Survey Form &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
