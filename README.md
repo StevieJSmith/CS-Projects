@@ -1,12 +1,12 @@
 # Graduate Projects
 
-## HTML & CSS Projects
-([HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects))
-1. Survey Form
-2. Tribute Page
-3. Techincal Documentaion Page
-4. Product Landing Page
-5. Personal Portfolio
+## HTML & CSS Projects -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+[HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+1. Survey Form -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+2. Tribute Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+3. Techincal Documentation Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+4. Product Landing Page -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+5. Personal Portfolio -> [HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 
 ## Javascript Algorithm Scripting Projects
 1. Palindrome Checker
