@@ -7,7 +7,7 @@
 4. Product Landing Page &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Product%20Landing%20Page)
 5. Personal Portfolio &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Personal%20Portfolio%20Webpage)
 
-## Javascript Algorithm Scripting Projects
+## Javascript Algorithm Scripting Projects &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Javascript%20Algorithm%20Scripting%20Projects)
 1. Palindrome Checker &rarr;
 2. Roman Numeral Converter &rarr;
 3. Caesars Cipher &rarr;
