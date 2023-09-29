@@ -1,21 +1,20 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
-
-const zeroToNineRegex = /[0-9.]/;
-const hasEqualsRegex = /[=]/;
-
+// Version needs cleaning 
+const zeroToNineRegex = /[0-9.]/; // regex for finding value between 0-9
+const hasEqualsRegex = /[=]/; // regex for finding a (=) sign
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
+    this.state = { // store the input and total to display on the calculator screen
       input: "0",
       total: ""
     };
     this.handleClick = this.handleClick.bind(this);
   }
-  handleClick(event) {
+  handleClick(event) { // when a calculator button is clicked perform the correct task
     switch (event.target.innerText) {
-      case "AC":
+      case "AC": // resets the calculator
         this.setState((state) => {
           return {
             input: "0",
@@ -24,7 +23,7 @@ class App extends React.Component {
         });
         break;
       case "/":
-        if (hasEqualsRegex.test(this.state.total)) {
+        if (hasEqualsRegex.test(this.state.total)) { // if '=' is found inside total when this button is clicked, input shows the operator only and total shows the answer and the specific operator
           let equal = this.state.total.indexOf("=");
           this.setState((state) => {
             return {
@@ -32,14 +31,14 @@ class App extends React.Component {
               total: this.state.total.slice(equal + 1) + event.target.innerText
             };
           });
-        } else if (zeroToNineRegex.test(this.state.total.slice(-1))) {
+        } else if (zeroToNineRegex.test(this.state.total.slice(-1))) { // if the previous element in total is a number do the following
           this.setState((state) => {
             return {
               input: "/",
               total: this.state.total.concat(event.target.innerText)
             };
           });
-        } else if (
+        } else if ( // if total is not empty and the second from last total element is not a number do the following (replace last two elements)
           this.state.total !== "" &&
           zeroToNineRegex.test(this.state.total.slice(-2, -1)) === false
         ) {
@@ -49,7 +48,7 @@ class App extends React.Component {
               total: this.state.total.replace(/..$/, "/")
             };
           });
-        } else if (this.state.total !== "") {
+        } else if (this.state.total !== "") { // if second from last is a number then replace the last element
           this.setState((state) => {
             return {
               input: "/",
@@ -94,7 +93,7 @@ class App extends React.Component {
         }
         break;
       case "-":
-        if (hasEqualsRegex.test(this.state.total)) {
+        if (hasEqualsRegex.test(this.state.total)) { 
           let equal = this.state.total.indexOf("=");
           this.setState((state) => {
             return {
