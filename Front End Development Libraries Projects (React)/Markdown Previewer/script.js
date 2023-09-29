@@ -1,6 +1,7 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
+// defaultText contains the text for conversion to markdown 
 const defaultText = `# Welcome to my React Markdown Previewer!
 
 ## This is a sub-heading...
@@ -48,19 +49,19 @@ And here. | Okay. | I think we get it.
 ![React Logo w/ Text](https://goo.gl/Umyytc)
 `;
 
-marked.setOptions({
+marked.setOptions({ // interprets carriage returns and renders them as br elements 
   breaks: true
 });
 
 class App extends React.Component {
   constructor(props) {
     super(props);
-    this.state = {
-      input: defaultText
+    this.state = { // hold the input of the editor within the state
+      input: defaultText 
     };
     this.handleChange = this.handleChange.bind(this);
   }
-  handleChange(event) {
+  handleChange(event) { // when the textfield is changed force a state update with the new text
     this.setState((state) => {
       return {
         input: event.target.value
@@ -68,9 +69,9 @@ class App extends React.Component {
     });
   }
 
-  render() {
+  render() { // display the contents of the Editior and Preview classes
     return (
-      <body>
+      <body> // pass the following variables and values as props to child classes
         <Editor input={this.state.input} handleChange={this.handleChange} />
         <Preview input={this.state.input} />
       </body>
@@ -89,7 +90,7 @@ class Editor extends React.Component {
         <textarea
           id="editor"
           value={this.props.input}
-          onChange={this.props.handleChange}
+          onChange={this.props.handleChange} // when a change happens call the handleChange function
         >
           # hello
         </textarea>
@@ -108,7 +109,7 @@ class Preview extends React.Component {
         <fieldset id="previewField">Preview</fieldset>
         <div
           id="preview"
-          dangerouslySetInnerHTML={{
+          dangerouslySetInnerHTML={{ // display html passed to Preview by App from Editor changes as markdown 
             __html: marked(this.props.input)
           }}
         ></div>
