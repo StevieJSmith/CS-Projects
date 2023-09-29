@@ -1,11 +1,11 @@
 import React from "https://cdn.skypack.dev/react@17.0.1";
 import ReactDOM from "https://cdn.skypack.dev/react-dom@17.0.1";
 
-document.addEventListener("keydown", (event) => {
-  const letter = event.key.toUpperCase();
-  const audio = document.getElementById(letter);
+document.addEventListener("keydown", (event) => { // listen for when keys are pressed
+  const letter = event.key.toUpperCase(); // parse them as uppercase letters
+  const audio = document.getElementById(letter); // assign 'audio' to the id of the letter pressed
 
-  switch (letter) {
+  switch (letter) { // if a specific letter was pressed assign the inner text to the corresponding name of the sound
     case "Q":
       document.querySelector("#sound").innerText = "Heater-1";
       break;
@@ -33,11 +33,11 @@ document.addEventListener("keydown", (event) => {
     case "C":
       document.querySelector("#sound").innerText = "Closed-HH";
       break;
-    default:
+    default: // triggered when the user provides an invalid input
       document.querySelector("#sound").innerText = "invalid-key";
       break;
   }
-  audio.play();
+  audio.play(); // play the sound of the audio clip stored within 'audio'
 });
 
 class App extends React.Component {
@@ -47,16 +47,16 @@ class App extends React.Component {
     this.handleClick = this.handleClick.bind(this);
   }
 
-  handleClick(event) {
+  handleClick(event) { // when a click occurs find the inner HTML (the letter) and play the audio stored within the audio tag within the div
     event.preventDefault();
     const letter = event.target.innerHTML;
     const audio = document.getElementById(letter[0]);
     audio.play();
 
-    document.querySelector("#sound").innerText = event.target.id;
+    document.querySelector("#sound").innerText = event.target.id; // update the screen to the appropriate sound name 
   }
 
-  render() {
+  render() { // pass handleClick to the Drum class 
     return <Drum handleClick={this.handleClick} />;
   }
 }
@@ -66,7 +66,7 @@ class Drum extends React.Component {
     super(props);
   }
   render() {
-    return (
+    return ( // display the drum screen and button pad
       <div id="drum-machine">
         <div id="display">
           <div id="name">| Drum Machine 🎧 |</div>
@@ -77,7 +77,7 @@ class Drum extends React.Component {
             <div
               className="drum-pad"
               id="Heater-1"
-              onClick={this.props.handleClick}
+              onClick={this.props.handleClick} // when this button is clicked play the corresponding mp3 audio stored in the 'audio' tag
             >
               Q
               <audio
