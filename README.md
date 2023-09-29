@@ -1,5 +1,5 @@
 # Graduate Projects
-[a relative link](HTML & CSS Projects)
+[a relative link]([HTML & CSS Projects](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects))
 
 ## HTML & CSS Projects
 1. Survey Form
