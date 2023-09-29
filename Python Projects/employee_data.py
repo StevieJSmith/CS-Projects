@@ -1,4 +1,4 @@
-employees = [
+employees = [ # an array of dictionaries on employee information
  {
  "first_name":"Jose",
  "last_name":"Lopez",
@@ -241,36 +241,35 @@ employees = [
  }
 ]
 
-highest_salary_employee = employees[0]
-product_salaries = 0
-business_salaries = 0
+highest_salary_employee = employees[0] # set to the first employee in the to compare against
+business_salaries = 0 
 combined_years = 0
 average_length = 0
 average_over_30_salary = 0
 employees_without_email = []
 employee_jobs = {}
-for employee in employees:
+for employee in employees: # employee assigned to each dictionary
     combined_years+= employee["years_of_experience"]
     if employee['salary'] > highest_salary_employee['salary']:
-        highest_salary_employee = employee
+        highest_salary_employee = employee # the employee with the higher salary is assigned as highest_salary_employee
     if employee['email'] == None:
-        employees_without_email.append(employee)
+        employees_without_email.append(employee) # if employee info does not contain a email add to the employees_without_email array
     if employee['age'] > 30:
-        average_over_30_salary+= employee['salary']
+        average_over_30_salary+= employee['salary'] # total up the employees over 30s salaries
         average_length+= 1
     if employee['department'] == 'Product':
-        product_salaries+= employee['salary']
+        product_salaries+= employee['salary'] # total up the companies product department salary
     else:
-        business_salaries+= employee['salary']
+        business_salaries+= employee['salary'] # total up the companies business department salary
     if not employee['job_title'] in employee_jobs:
-        employee_jobs[employee['job_title']] = 1
+        employee_jobs[employee['job_title']] = 1 # add the job if it does not appear in employee_jobs as the key with a value of 1
     else:
-        employee_jobs[employee['job_title']] += 1
+        employee_jobs[employee['job_title']] += 1 # if the job is within employee_jobs, then increase the value by 1 
 
-highest_salary_employee_name = highest_salary_employee['first_name'] +  " " +  highest_salary_employee["last_name"]
-average_over_30_salary = int(average_over_30_salary / average_length)
+highest_salary_employee_name = highest_salary_employee['first_name'] +  " " +  highest_salary_employee["last_name"] # concat the first and last name of the highest employee
+average_over_30_salary = int(average_over_30_salary / average_length) # find the average by dividing the total by the amount 
 greater_cost = ""
-if (product_salaries > business_salaries):
+if (product_salaries > business_salaries): # find the department with the greater cost to the company
     greater_cost = "Product"
 else:
     greater_cost = "Business"
