@@ -1,4 +1,3 @@
-![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Name%20Banner.png)
 # Graduate Projects :eyes:
 
 ![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Computer%20Screens.jpg)
