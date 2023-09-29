@@ -4,11 +4,11 @@
 ![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Grad-Project%20Tech-Stack.png)
 
 ## HTML & CSS Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-1. Survey Form &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
-2. Tribute Page &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Tribute%20Page)
-3. Techincal Documentation Page &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Technical%20Documentation%20Page)
-4. Product Landing Page &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Product%20Landing%20Page)
-5. Personal Portfolio &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Personal%20Portfolio%20Webpage)
+1. [Survey Form](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
+2. [Tribute Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Tribute%20Page)
+3. [Techincal Documentation Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Technical%20Documentation%20Page)
+4. [Product Landing Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Product%20Landing%20Page)
+5. [Personal Portfolio](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Personal%20Portfolio%20Webpage)
 
 ## Javascript Algorithm Scripting Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Javascript%20Algorithm%20Scripting%20Projects)
 1. Palindrome Checker &rarr; [view Project](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Palindrome%20Checker.js)
