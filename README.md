@@ -1,4 +1,4 @@
-# Graduate Projects
+# Graduate Projects :eyes:
 
 ## HTML & CSS Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 1. Survey Form &rarr; [View Project](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
