@@ -34,4 +34,6 @@
 5. 
 
 ## OpenAI API Projects (JavaScript) &rarr; [view Folder]()
+1. [AI Chat Completion - ChatGPT Clone (using GPT-4)]()
+2. [AI Image Generator (using DALL-E)]()
 
