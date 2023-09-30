@@ -31,3 +31,7 @@
 2. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
 3. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
 4. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
+5. 
+
+## OpenAI API Projects (JavaScript) &rarr; [view Folder]()
+
