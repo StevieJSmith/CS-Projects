@@ -1,0 +1,132 @@
+:root {
+    --colour-one: rgb(0, 0, 0);
+    --colour-two: #CCCCCC;
+    --colour-three: rgb(200, 200, 200);
+    --colour-four: #009473;
+}
+
+* {
+    color: var(--colour-one);
+    font-family: 'Young Serif';
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color:  var(--colour-two);
+    display: flex;
+    overflow: hidden;
+}
+
+svg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+.menu {
+    height:100vh;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    border-right: solid 2px var(--colour-four);
+}
+
+button {
+    background-color:  var(--colour-two);
+    border: 2px solid var(--colour-four);
+    border-radius: 15px;
+    padding: 5px;
+    margin: 5px;
+}
+
+.nav {
+    text-align: center;
+    border-top: solid 2px var(--colour-four);
+    padding: 5px;
+    margin: 5px;
+}
+
+.history {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    margin: 5px;
+}
+
+.history p {
+    cursor: pointer;
+    text-align: center;
+    padding-bottom: 2px;
+}
+
+.nav p {
+    font-size: 10px;
+    color: var(--colour-four);
+
+}
+
+#info1 {
+    color: var(--colour-one);
+    font-size: 12px;
+}
+
+.chat {
+    width: 75%;
+    height: 100vh;
+    display: flex;
+    margin: 0 auto;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+#answer {
+    color: var(--colour-one);
+}
+
+h1 {
+    color: var(--colour-four);
+    font-size: 35px;
+    padding: 150px 0;
+}
+
+.user-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+
+}
+
+.user-section #submit {
+    position: block;
+    margin-left: 10px;
+
+}
+
+#submit:hover{
+    cursor: pointer;
+}
+
+input {
+    width: 100%;
+    border: 3px solid var(--colour-four);
+    border-radius: 30px;
+    font-size: 16px;
+    padding: 5px;
+    background-color: var(--colour-two);
+
+}
+
+input:focus {
+    outline: none;
+}
+
+#info2 {
+    font-size: 10px;
+    color: rgba(var(--colour-one), 0.5);
+}
