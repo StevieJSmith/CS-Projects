@@ -35,5 +35,5 @@
 
 ## OpenAI API Projects - hidden API KEY (JavaScript) &rarr; [view Folder]()
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-4))
-2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Image%20Generator%20(using%20DALL-E))
+2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 
