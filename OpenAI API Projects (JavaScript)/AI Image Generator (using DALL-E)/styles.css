@@ -1,0 +1,96 @@
+body {
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    overflow: hidden;
+}
+
+svg {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+header {
+    color: #ffffff;
+    height: 250px;
+    position: flex;
+    align-content: center;
+    font-family: 'Pixelify Sans', cursive;
+    font-size: 30px;
+}
+
+.image-holder {
+    width: 100%;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    text-align: center;
+    margin: 0 auto;
+    gap: 5px;
+    padding: 5px;
+}
+
+.generated-image {
+    overflow: hidden;
+}
+
+img {
+    width: 80%;
+    height: 80%;
+}
+
+.user-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.input-section {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+#submit {
+    position: relative;
+    font-size: 40px;
+    color: #FBAE3C;
+    margin-left: 10px;
+    text-align: center;
+    font-family: 'Pixelify Sans', cursive;
+}
+
+#submit:hover {
+    cursor: pointer;
+}
+
+input {
+    width: 50%;
+    border: 5px solid #FBAE3C;
+    border-left: 5px solid #001220;
+    border-top: 5px solid #001220;
+    border-radius: 30px;
+    font-size: 15px;
+    padding: 1px;
+}
+
+input:focus {
+    outline: none;
+}
+
+button {
+    color: #FFFFFF;
+    background-color: #001220;
+    border: none;
+    cursor: pointer;   
+    margin-bottom: 5px;
+
+}
