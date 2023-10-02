@@ -31,7 +31,7 @@
 2. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
 3. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
 4. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
-5. [Noughts and Crosses]()
+5. [Noughts and Crosses](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Noughts_and_Crosses.py)
 
 ## OpenAI API Projects - API KEY REQUIRED (JavaScript) &rarr; [view Folder]()
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
