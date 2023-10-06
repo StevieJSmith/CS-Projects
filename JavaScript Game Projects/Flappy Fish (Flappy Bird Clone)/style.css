@@ -1,0 +1,110 @@
+body {
+    display: flex;
+    overflow: hidden;
+    margin: 0 auto;
+    font-family: 'Staatliches', cursive;
+}
+
+.screen {
+    position: absolute;
+    left: 80px;
+    width: 500px;
+    height: 730px;
+}
+
+.sky {
+    position: absolute;
+    background-image: url('sky.png');
+    background-size: cover;
+    width: 500px;
+    height: 580px;
+    z-index: 1;
+
+}
+
+
+.ground {
+    position: absolute;
+    top: 580px;
+    background-image: url('sky.png');
+    background-size: cover;
+    width: 500px;
+    height: 150px;
+    z-index: 5;
+    
+
+}
+
+.fish {
+    position: absolute;
+    height: 45px;
+    width: 60px;
+    background-image: url('fish.png');
+    background-size: cover;
+    z-index: 4;
+}
+
+.obstacle {
+    position: absolute;
+    height: 300px;
+    width: 60px;
+    background-image: url('pipe.png');
+    background-position: fixed;
+    z-index: 9;
+}
+
+.upsidedown-obstacle {
+    position: absolute;
+    transform: rotate(180deg);
+    height: 300px;
+    width: 60px;
+    background-image: url('pipe.png');
+    background-position: no-repeat;
+    z-index: 9;
+}
+
+#border-top {
+    position: absolute;
+    top: -50px;
+    width: 660px;
+    height: 50px;
+    background-color: white;
+    z-index: 10;
+}
+
+#border-right {
+    position: absolute;
+    left: 580px;
+    width: 80px;
+    height: 790px;
+    background-color: white;
+    z-index: 10;
+}
+
+#border-left {
+    position: absolute;
+    width: 80px;
+    height: 790px;
+    background-color: white;
+    z-index: 10;
+}
+
+h1{
+    position: absolute;
+    left: 10px;
+    top: 4px;
+}
+
+button {
+    display: relative;
+    background-color: none;
+    border: none;
+    cursor: pointer;
+    font-family: 'Staatliches', cursive;
+}
+
+#score {
+    margin-top: 100px;
+    z-index: 20;
+
+}
