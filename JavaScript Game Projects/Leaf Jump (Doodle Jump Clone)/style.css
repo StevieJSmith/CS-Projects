@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    font-family: 'Staatliches', cursive;
+}
+
+.screen {
+    margin: 0 auto;
+    right: 100px;
+    width: 400px;
+    height: 600px;
+    position: relative;
+    background-image: url('background.png');
+    background-position: cover;
+    text-align: center;
+    font-size: 80px;
+}
+
+.leafer {
+    width: 60px;
+    height: 85px;
+    position: absolute;
+    background-image: url('doodler.png');
+    background-position: bottom;
+    
+}
+
+.platform {
+    width: 85px;
+    height: 15px;
+    position: absolute;
+    background-image: url('LeafPlatform.png');
+    background-position: bottom;
+}
+
+button {
+    cursor: pointer;
+    font-family: 'Staatliches', cursive;
+}
