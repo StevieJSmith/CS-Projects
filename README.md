@@ -33,7 +33,12 @@
 4. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
 5. [Noughts and Crosses](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Noughts_and_Crosses.py)
 
-## OpenAI API Projects - API KEY REQUIRED (JavaScript) &rarr; [view Folder]()
+## OpenAI API Projects - API KEY REQUIRED (JavaScript) &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript))
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 
+## JavaScript Game Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects)
+1. [Sprite Animation](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Sprite%20Animation)
+2. [Parallax Backgrounds](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Parallax%20Bckgrounds)
+3. [Leaf Jump (Doodle Jump Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Leaf%20Jump%20(Doodle%20Jump%20Clone))
+4. [Flappy Fish (Flappy Bird Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Flappy%20Fish%20(Flappy%20Bird%20Clone))
