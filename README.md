@@ -39,6 +39,6 @@
 
 ## JavaScript Game Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects)
 1. [Sprite Animation](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Sprite%20Animation)
-2. [Parallax Backgrounds](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Parallax%20Bckgrounds)
+2. [Parallax Backgrounds](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Parallax%20Backgrounds)
 3. [Leaf Jump (Doodle Jump Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Leaf%20Jump%20(Doodle%20Jump%20Clone))
 4. [Flappy Fish (Flappy Bird Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Flappy%20Fish%20(Flappy%20Bird%20Clone))
