@@ -29,7 +29,7 @@
 3. [Leaf Jump (Doodle Jump Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Leaf%20Jump%20(Doodle%20Jump%20Clone))
 4. [Flappy Fish (Flappy Bird Clone)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects/Flappy%20Fish%20(Flappy%20Bird%20Clone))
 
-### React Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
+### Front End Development Libraries Projects (React) &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
 1. [Random Quote Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Random%20Quote%20Machine)
 2. [Markdown Previewer](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Markdown%20Previewer)
 3. [Drum Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Drum%20Machine)
