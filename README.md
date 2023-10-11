@@ -36,7 +36,10 @@
 4. [JavaScript Calculator](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/JavaScript%20Calculator)
 5. [25 + 5 Clock (Pomodoro Clock)](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/25%20%2B%205%20Clock)
 
-## Java Projects
+## Java
+
+### Java Game Projects
+1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
 
 ## Python Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
 1. [Control Flow ATM](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/control_flow_atm.py)
