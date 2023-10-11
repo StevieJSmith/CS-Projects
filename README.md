@@ -43,6 +43,7 @@
 
 ### Java Game Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects)
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
+2. [Snake](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/Snake)
 
 ## Python Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
 1. [Control Flow ATM](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/control_flow_atm.py)
