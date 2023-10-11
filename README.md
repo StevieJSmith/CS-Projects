@@ -39,7 +39,7 @@
 ## Java
 
 ### Java Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects)
-1. [Login Page (Without Database](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Login%20Page%20(Without%20Database))
+1. [Login Page (Without Database)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Login%20Page%20(Without%20Database))
 
 ### Java Game Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects)
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
