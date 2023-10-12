@@ -48,8 +48,7 @@
 2. [Snake](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/Snake)
 
 ## Python Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
-1. [Control Flow ATM](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/control_flow_atm.py)
-2. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
-3. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
-4. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
-5. [Noughts and Crosses](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Noughts_and_Crosses.py)
+1. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
+2. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
+3. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
+4. [Noughts and Crosses](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Noughts_and_Crosses.py)
