@@ -12,12 +12,8 @@
 
 ## JavaScript
 
-### Javascript Algorithm Scripting Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Javascript%20Algorithm%20Scripting%20Projects)
-1. [Palindrome Checker](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Palindrome%20Checker.js)
-2. [Roman Numeral Converter](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Roman%20Numeral%20Converter.js)
-3. [Caesars Cipher](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Caesars%20Cipher.js)
-4. [Telephone Number Validator (US)](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Telephone%20Number%20Validator.js)
-5. [Cash Register](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Javascript%20Algorithm%20Scripting%20Projects/Cash%20Register.js)
+### Javascript Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/JavaScript%20Projects)
+1. [FreeCodeCamp Algorithm Scripting Projects](https://github.com/StevieJSmith/CS-Projects/blob/main/JavaScript%20Projects/JavascriptAlgorithmScriptingChallenges.js)
 
 ### OpenAI API Projects - API KEY REQUIRED (JavaScript) &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript))
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
