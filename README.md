@@ -13,7 +13,7 @@
 ## JavaScript
 
 ### Javascript Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/JavaScript%20Projects)
-1. [FreeCodeCamp Algorithm Scripting Projects](https://github.com/StevieJSmith/CS-Projects/blob/main/JavaScript%20Projects/JavascriptAlgorithmScriptingChallenges.js)
+1. [FCC Algorithm Scripting Projects](https://github.com/StevieJSmith/CS-Projects/blob/main/JavaScript%20Projects/JavascriptAlgorithmScriptingChallenges.js)
 
 ### OpenAI API Projects - API KEY REQUIRED (JavaScript) &rarr; [view Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript))
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
