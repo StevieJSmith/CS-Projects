@@ -25,7 +25,7 @@
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 
-## React &rarr; [view Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects)
+## React
 
 ### React Class Component Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
 1. [Random Quote Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Random%20Quote%20Machine)
