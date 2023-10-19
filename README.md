@@ -25,12 +25,18 @@
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 
-### Front End Development Libraries Projects (React) &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
+## React &rarr; [view Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects)
+
+### React Class Component Projects &rarr; [view Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
 1. [Random Quote Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Random%20Quote%20Machine)
 2. [Markdown Previewer](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Markdown%20Previewer)
 3. [Drum Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Drum%20Machine)
 4. [JavaScript Calculator](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/JavaScript%20Calculator)
 5. [25 + 5 Clock (Pomodoro Clock)](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/25%20%2B%205%20Clock)
+
+### React Functional Component Projects &rarr; [view Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects)
+1. [Todo List](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects/Todo%20List)
+
 
 ## Java
 
