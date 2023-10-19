@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+label {
+    display: block;
+    text-align: center;
+    margin-bottom: 10px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input {
+    display: block;
+    margin: 0 auto;
+    width: 80%;
+}
+
+button {
+    display: block;
+    margin: 0 auto;
+    margin-top: 10px;
+    width: 82%;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.header {
+    font-family: Impact, sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+.added button{
+    width: 25%;
+}
+
+.added {
+    padding: 5px;
+    border: 2px solid white;
+}
