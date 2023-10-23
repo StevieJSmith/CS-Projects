@@ -12,7 +12,6 @@
 
 ## JavaScript
 
-### Javascript Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/JavaScript%20Projects)
 1. [FCC Algorithm Scripting Projects](https://github.com/StevieJSmith/CS-Projects/blob/main/JavaScript%20Projects/JavascriptAlgorithmScriptingChallenges.js)
 
 ### JavaScript Game Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/JavaScript%20Game%20Projects)
