@@ -35,6 +35,7 @@
 
 ### React Functional Component Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects)
 1. [Todo List](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects/Todo%20List)
+2. [Book Store (MERN Stack)](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects/BookStore%20(MERN%20Stack))
 
 ## Node
 
