@@ -1,0 +1,85 @@
+body {
+  background-color: rgb(255,255,255);
+  color: rgb(0,0,0);
+}
+
+h1, h3, button {
+  text-align: center;
+}
+
+button, input {
+  margin: 0 auto;
+  background-color: transparent;
+  border: 1px solid rgb(0,0,0);
+  color: rgb(0,0,0);
+  padding: 5px;
+  width: 90%
+}
+
+button {
+  cursor: pointer;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.create {
+  margin-left: 50%;
+  color: rgb(255, 165, 0);
+}
+
+.back {
+  color: rgb(0,0,0)
+}
+
+table {
+  text-align: center;
+  margin: 0 auto;
+  padding: 0px;
+}
+
+table, th, td {
+  border: 1px solid rgb(0,0,0);
+  padding: 10px;
+}
+
+.top-container {
+  margin: 0 auto;
+
+}
+
+.show-container {
+  border: 1px solid;
+  margin: auto;
+  
+  
+}
+
+.section {
+  padding: 10px;
+  border: 1px solid;
+  
+}
+
+.type {
+  font-weight: bold;
+}
+
+.value {
+  margin-left: auto;
+}
+
+.info {
+  color: blue;
+
+}
+.delete {
+  color: red;
+}
+
+.edit {
+  color: darkgreen;
+}
+
+.info, .edit, .delete {
+  padding: 5px;
+}
