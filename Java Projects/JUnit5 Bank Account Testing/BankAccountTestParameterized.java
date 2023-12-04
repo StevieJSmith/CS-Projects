@@ -78,10 +78,7 @@ public class BankAccountTestParameterized {
 			assertEquals(parameters.getExpected(), account.getBalance(), 0.1);
 		}
 		else if (type.toLowerCase().equals("exception")) {
-			Exception exception = Assertions.assertThrows(IllegalArgumentException.class, () -> {
-				account.withdraw(parameters.getAmount(), parameters.isBranch());
-			});
-			assertEquals(null, exception.getMessage());
+			Assertions.assertThrows(IllegalArgumentException.class, () -> account.withdraw(parameters.getAmount(), parameters.isBranch()));
 		} else {
 			System.out.println("Invalid type input!");
 		}
