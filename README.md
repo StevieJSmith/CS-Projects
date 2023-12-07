@@ -47,9 +47,9 @@
 
 ### Java Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects)
 1. [Control Flow Exercises](https://github.com/StevieJSmith/CS-Projects/blob/main/Java%20Projects/ControlFlowExercises.java)
-2. [Login Page (Without Database)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Login%20Page%20(Without%20Database))
+2. [Login Page](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Login%20Page%20(Without%20Database))
 3. [Substitution Cipher](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Substitution%20Cipher)
-4. [University Email Generator (without database)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Email%20Generator%20(without%20database))
+4. [University Email Generator](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Email%20Generator%20(without%20database))
 5. [JUnit5 Bank Account Testing](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JUnit5%20Bank%20Account%20Testing)
 6. [University Management System](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Management%20System)
 
