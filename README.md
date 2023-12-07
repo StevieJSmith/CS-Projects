@@ -51,6 +51,7 @@
 3. [Substitution Cipher](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects/Substitution%20Cipher)
 4. [University Email Generator (without database)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Email%20Generator%20(without%20database))
 5. [JUnit5 Bank Account Testing](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JUnit5%20Bank%20Account%20Testing)
+6. [University Management System](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Management%20System)
 
 ### Java Game Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects)
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
