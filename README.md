@@ -52,6 +52,7 @@
 4. [University Email Generator](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Email%20Generator%20(without%20database))
 5. [JUnit5 Bank Account Testing](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JUnit5%20Bank%20Account%20Testing)
 6. [University Management System](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Management%20System)
+7. [JDBC Music Database](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JDBC%20Music%20Database)
 
 ### Java Game Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects)
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
