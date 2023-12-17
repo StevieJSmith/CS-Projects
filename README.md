@@ -1,5 +1,5 @@
 ![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Name%20Banner.png)
-# Projects :eyes:
+# PROJECTS :eyes:
 
 ![image](https://github.com/StevieJSmith/CS-Projects/blob/main/Images/Tech%20Stack.png)
 
