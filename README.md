@@ -10,7 +10,7 @@
 4. [Product Landing Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Product%20Landing%20Page)
 5. [Personal Portfolio](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Personal%20Portfolio%20Webpage)
 
-## JavaScript
+## JAVASCRIPT
 
 1. [FCC Algorithm Scripting Projects](https://github.com/StevieJSmith/CS-Projects/blob/main/JavaScript%20Projects/JavascriptAlgorithmScriptingChallenges.js)
 
@@ -24,7 +24,7 @@
 1. [AI Chat Completion - ChatGPT Clone (using GPT-3.5-turbo)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 2. [AI Image Generator (using DALL-E)](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/OpenAI%20API%20Projects%20(JavaScript)/AI%20Chat%20Completion%20-%20ChatGPT%20Clone%20(using%20GPT-3.5-turbo))
 
-## React
+## REACT
 
 ### React Class Component Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React))
 1. [Random Quote Machine](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Front%20End%20Development%20Libraries%20Projects%20(React)/Random%20Quote%20Machine)
@@ -37,13 +37,13 @@
 1. [Todo List](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects/Todo%20List)
 2. [Book Store (MERN Stack)](https://github.com/StevieJSmith/CS-Projects/tree/main/React%20Projects/Functional%20Component%20Projects/BookStore%20(MERN%20Stack))
 
-## Node
+## NODE
 
 ### Node Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Projects/tree/main/Node%20Projects)
 1. [Covid-19 API](https://github.com/StevieJSmith/CS-Projects/blob/main/Node%20Projects/Covid-19%20API/index.js)
 2. [Rest API](https://github.com/StevieJSmith/CS-Projects/tree/main/Node%20Projects/Rest%20API)
 
-## Java
+## JAVA
 
 ### Java Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Projects)
 1. [Control Flow Exercises](https://github.com/StevieJSmith/CS-Projects/blob/main/Java%20Projects/ControlFlowExercises.java)
@@ -59,7 +59,7 @@
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
 2. [Snake](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/Snake)
 
-## Python Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
+## PYTHON Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
 1. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
 2. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
 3. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
