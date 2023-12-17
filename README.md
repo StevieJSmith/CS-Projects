@@ -1,7 +1,7 @@
 ![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Name%20Banner.png)
 # Projects :eyes:
 
-![image](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Images/Grad-Project%20Tech-Stack.png)
+![image](https://github.com/StevieJSmith/CS-Projects/blob/main/Images/Tech%20Stack.png)
 
 ## HTML & CSS Projects &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 1. [Survey Form](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
