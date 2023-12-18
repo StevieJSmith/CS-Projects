@@ -21,7 +21,7 @@ export const getUsers = (req, res) => { // route = /users
 export const getUserById = (req, res) => {
     const chosenId = req.params.id;
 
-    const chosenUser = users.find((user) => chosenId == user.id); // fidn user with provided id
+    const chosenUser = users.find((user) => chosenId == user.id); // find user with provided id
 
     res.send(chosenUser);
 };
