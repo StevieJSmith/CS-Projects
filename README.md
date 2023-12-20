@@ -54,7 +54,7 @@
 6. [University Management System](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/University%20Management%20System)
 7. [JDBC Music Database (SQLite)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JDBC%20Music%20Database)
 8. [Second Hand Volkswagen Database (Lambda/Streams/CSV)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/Second%20Hand%20Volkswagen%20Database)
-9. [JDBC Game Database (SQLite)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JDBC%20Game%20Database)
+9. [JDBC Game Database (SQLite/JUnit5)](https://github.com/StevieJSmith/CS-Projects/tree/main/Java%20Projects/JDBC%20Game%20Database)
 
 ### Java Game Projects &rarr; [View Folder](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects)
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
