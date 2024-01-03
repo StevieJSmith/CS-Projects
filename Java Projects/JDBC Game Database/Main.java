@@ -188,7 +188,7 @@ public class Main {
 					======================================================
 					       				Game Database
 					======================================================
-					1 - All Games			| 5 - Platform (from Game)
+					1 - All Games		| 5 - Platform (from Game)
 					2 - Game (from Year)	| 6 - Genre (from Game)
 					3 - Game (from Genre)	| 7 - Review Score (from Game)
 					4 - Game (from Platform)| X - Exit
