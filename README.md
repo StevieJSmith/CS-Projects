@@ -4,7 +4,6 @@
 ![image](https://github.com/StevieJSmith/CS-Projects/blob/main/Images/Tech%20Stack.png)
 
 ## HTML & CSS PROJECTS &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
-===
 1. [Survey Form](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
 2. [Tribute Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Tribute%20Page)
 3. [Techincal Documentation Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Technical%20Documentation%20Page)
