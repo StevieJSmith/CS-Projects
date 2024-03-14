@@ -3,7 +3,7 @@
 
 ![image](https://github.com/StevieJSmith/CS-Projects/blob/main/Images/Tech%20Stack.png)
 
-## HTML & CSS PROJECTS &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
+## HTML & CSS &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects)
 1. [Survey Form](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Survey%20Form)
 2. [Tribute Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Tribute%20Page)
 3. [Techincal Documentation Page](https://github.com/StevieJSmith/Graduate-Projects/tree/main/HTML%20%26%20CSS%20Projects/Technical%20Documentation%20Page)
@@ -60,7 +60,7 @@
 1. [TicTacToe](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/TicTacToe)
 2. [Snake](https://github.com/StevieJSmith/CS-Graduate-Projects/tree/main/Java%20Game%20Projects/Snake)
 
-## PYTHON PROJECTS &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
+## PYTHON &rarr; [View Folder](https://github.com/StevieJSmith/Graduate-Projects/tree/main/Python%20Projects)
 1. [Employee Data](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/employee_data.py)
 2. [Car CSV Data retrieval](https://github.com/StevieJSmith/Graduate-Projects/blob/main/Python%20Projects/csv_car_task.py)
 3. [Football Player Data retrieval](https://github.com/StevieJSmith/CS-Graduate-Projects/blob/main/Python%20Projects/Football_Player_data_retrieval.py)
